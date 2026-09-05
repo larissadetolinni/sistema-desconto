@@ -14,4 +14,4 @@ Um programa em Python desenvolvido para calcular descontos automáticos com base
 1. Certifique-se de ter o Python instalado.
 2. Execute o arquivo no terminal:
    ```bash
-   python app.py# sistema-desconto
+   python LarissaSilva_Ag6_DS_I.# sistema-desconto
